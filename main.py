@@ -1,4 +1,5 @@
 # Import necessary modules from tkinter
+# pip install tk
 from tkinter import *
 from tkinter import messagebox
 import random
